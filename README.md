@@ -1,1 +1,6 @@
-# kido
+https://www.kaggle.com/wjburns/common-password-list-rockyoutxt#rockyou.txt
+
+Folders layout …
+Code explanations …
+
+To do!
