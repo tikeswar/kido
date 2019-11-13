@@ -34,6 +34,6 @@ Coming soon ...
 
 Resources:
 ----------
-Published in Towards Data Science: https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5
+Published in Towards Data Science: [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
 
-The rockyou passwords link: https://www.kaggle.com/wjburns/common-password-list-rockyoutxt#rockyou.txt
+The rockyou passwords link: [rockyou.txt](https://www.kaggle.com/wjburns/common-password-list-rockyoutxt#rockyou.txt)
