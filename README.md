@@ -1,3 +1,10 @@
+About kido:
+-----------
+Can we figure out what someone is typing, just by listening to the keystrokes?
+This project called kido (= keystroke decode) explores if this is possible.
+It is published in Towards Data Science: https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5
+
+
 Quick start guide:
 ------------------
 For training and validation: kido/code/kido_train.ipynb
@@ -16,6 +23,8 @@ For example 'iloveu.m4a' should be the file name for the keystrokes audio typing
 The python script will automatically convert m4a to wav, split, and generate spectrograms.
 Store the trained model at: kido/batch99_test/model/ and specify the file name in the script.
 
+Note: All the data (train, dev, and test) are collected using MacBook Pro (Retina, 13-inch, Early 2015).
+
 
 Detail descriptions:
 --------------------
@@ -24,4 +33,5 @@ Coming soon ...
 
 Resources:
 ----------
+Towards Data Science: https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5
 The rockyou passwords link: https://www.kaggle.com/wjburns/common-password-list-rockyoutxt#rockyou.txt
