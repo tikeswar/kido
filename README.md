@@ -2,8 +2,8 @@ About kido:
 -----------
 Can we figure out what someone is typing, just by listening to the keystrokes?
 
-This project called kido (= keystroke decode) explores if this is possible.
-It is published in Towards Data Science: https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5
+This project called **kido** (= keystroke decode) explores if this is possible.
+It is published in [Towards Data Science](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5).
 
 
 Quick start guide:
