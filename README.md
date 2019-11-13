@@ -18,9 +18,9 @@ and all validation images corresponding to keystroke `m` are stored in a subfold
 For testing:  `kido/code/kido_test.ipynb`  
 Specify the test dir, in this case: `kido/batch99_test/`  
 In the test dir make four sub-dirs called `audio`, `images`, `model`, and `splits`  
-Store the word-keystrokes m4a (unsplitted) at: `kido/batch99_test/audio/`  
+Store the keystrokes audio m4a (unsplitted) at: `kido/batch99_test/audio/`  
 Make sure the file name is the word itself (type only alphabets and all lowercase).  
-For example `iloveu.m4a` should be the file name for the keystrokes audio typing `iloveu`.  
+For example, `iloveu.m4a` should be the file name for the keystrokes audio typing `iloveu`.  
 The python script will automatically convert m4a to wav, split, and generate spectrograms.  
 Store the trained model at: `kido/batch99_test/model/` and specify the file name in the script.
 
