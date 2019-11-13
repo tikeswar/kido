@@ -24,7 +24,7 @@ For example 'iloveu.m4a' should be the file name for the keystrokes audio typing
 The python script will automatically convert m4a to wav, split, and generate spectrograms.
 Store the trained model at: kido/batch99_test/model/ and specify the file name in the script.
 
-Note: All the data (train, dev, and test) are collected using MacBook Pro (Retina, 13-inch, Early 2015).
+Note: All the data (train, dev, and test) in this study were collected using my MacBook Pro (Retina, 13-inch, Early 2015) keyboard.
 
 
 Detail descriptions:
