@@ -27,11 +27,6 @@ Store the trained model at: `kido/batch99_test/model/` and specify the file name
 Note: All the data (train, dev, and test) in this study were collected using my MacBook Pro (Retina, 13-inch, Early 2015) keyboard.
 
 
-Detail descriptions:
---------------------
-Coming soon ...
-
-
 Resources:
 ----------
 Published in Towards Data Science: [Clear and Creepy Danger of Machine Learning: Hacking Passwords](https://towardsdatascience.com/clear-and-creepy-danger-of-machine-learning-hacking-passwords-a01a7d6076d5)
